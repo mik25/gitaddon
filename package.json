@@ -1,5 +1,5 @@
 {
-  "name": "mikmc",
+  "name": "iptv",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,5 @@
     "m3u8-reader": "^1.1.0",
     "base-64": "^0.1.0",
     "rimraf": "^3.0.2"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
