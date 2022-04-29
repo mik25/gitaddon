@@ -8,7 +8,7 @@
     "get": "node get-m3u.js"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "url": "^0.11.0",
     "needle": "^2.2.4",
     "stremio-addon-sdk": "^1.6.2",
